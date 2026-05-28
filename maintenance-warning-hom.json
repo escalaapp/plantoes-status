@@ -1,6 +1,6 @@
 {
-  "enabled": true,
+  "enabled": false,
   "type": "maintenance",
   "variant": "orange",
-  "message": "Hiro <strong>Sama</strong>"
+  "message": ""
 }
