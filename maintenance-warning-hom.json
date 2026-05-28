@@ -1,6 +1,6 @@
 {
-  "enabled": false,
+  "enabled": true,
   "type": "maintenance",
   "variant": "orange",
-  "message": ""
+  "message": "teste"
 }
