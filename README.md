@@ -84,6 +84,7 @@ Os arquivos `maintenance-warning-[env].json` controlam o banner de aviso exibido
 ### Regras
 
 - As únicas variações de cor disponíveis para o warning são `green` e `orange`.
+- Ao habilitar o banner, recomenda-se usar `green` inicialmente para alertar com antecedência.
 - O ideal é definir `variant` manualmente como `orange` no dia da migração, a partir de `00:00h`.
 - O campo `message` aceita HTML básico, então é possível usar tags como `<strong>` para destacar trechos da mensagem.
 - Evite HTML complexo; use apenas formatação simples.
