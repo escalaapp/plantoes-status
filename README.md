@@ -1,4 +1,3 @@
-````markdown
 # Página de Status / Manutenção
 
 Este repositório centraliza os JSON usados para controlar a página de manutenção e o banner/warning dos ambientes do sistema **Escala Plantões**.
