@@ -1,6 +1,6 @@
 {
-  "enabled": false,
+  "enabled": true,
   "type": "maintenance",
   "variant": "orange",
-  "message": "O Escala Plantões entrará em manutenção preventiva em <strong>14 de maio às 21h</strong> para melhorar a estabilidade e a segurança do sistema. Voltaremos logo! 🚀 "
+  "message": "Escala Plantões"
 }
