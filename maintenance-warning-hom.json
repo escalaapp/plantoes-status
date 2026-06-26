@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "type": "maintenance",
   "variant": "orange",
   "message": "Escala Plantões 2"
